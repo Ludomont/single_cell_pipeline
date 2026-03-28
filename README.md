@@ -7,4 +7,4 @@ In particular contains:
 - scTCR-seq analysis and downstream analysis with Scirpy
 - Automated data annotation with celltypist
 - Metacells method
-- HINT ATAC pipeline
+- HINT-ATAC pipeline
