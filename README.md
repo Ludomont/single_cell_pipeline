@@ -1,5 +1,5 @@
 # single_cell_pipeline
-This repository contain the pipeline for different single cell analysis of CD8 T cells related to different experiments.
+This repository contains the pipeline for different single cell analysis of CD8 T cells related to different experiments.
 In particular contains:
 - scRNA-seq pre-processing pipeline
 - scATAC-seq pre-processing pipeline
