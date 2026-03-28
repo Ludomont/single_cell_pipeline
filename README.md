@@ -1,2 +1,10 @@
 # single_cell_pipeline
-scRNA-seq, scATAC-seq, scTCR-seq data analysis and multi-omic data integration
+This repository contain the pipeline for different single cell analysis of CD8 T cells related to different experiments.
+In particular contains:
+- scRNA-seq pre-processing pipeline
+- scATAC-seq pre-processing pipeline
+- multi-omic data integration with MOFA+
+- scTCR-seq analysis and downstream analysis
+- Automated data annotation with celltypist
+- Metacells method
+- HINT ATAC pipeline
